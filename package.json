@@ -1,7 +1,7 @@
 {
   "name": "llm-coding-challenge-shootout",
   "version": "0.0.0",
-  "description": "",
+  "description": "Creating space to systematically explore and review how effectively systems can generate solutions. Inspired by the initial prompts and blog post from https://medium.com/@datasciencedisciple/i-built-3-apps-with-deepseek-openai-o1-and-gemini-heres-what-performed-best-065cb460d761",
   "homepage": "https://github.com/TheRobBrennan/llm-coding-challenge-shootout#readme",
   "bugs": {
     "url": "https://github.com/TheRobBrennan/llm-coding-challenge-shootout/issues"
